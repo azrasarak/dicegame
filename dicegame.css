@@ -1,22 +1,27 @@
-body{
-    background-color: purple;
+
+body {
+    background-color: lightblue; 
   }
-  .wrapper{
+  .wrapper {
     width: 70%; 
     margin: auto; 
     text-align: center; 
   }
-  h1{
+  h1 {
     margin:20x; 
     font-size: 6rem;
-    color: white;
+    color: purple;
   }
   .dice-area {
     margin: 0px 50px; 
     text-align: center; 
     display: inline-block; 
   }
-  p{
+  p {
     font-size: 2.5rem; 
     color: white; 
+  }
+
+  img { 
+      width: 320px;
   }
