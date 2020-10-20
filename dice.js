@@ -18,5 +18,5 @@ if (firstRandomNum > secondRandomNum) {
     document.querySelector ('h1').innerHTML = 'Winner is Player 2'; 
     }
     else{
-        document.querySelector ('h1').innerHTML = 'Draw'; 
+        document.querySelector ('h1').innerHTML = 'Tie'; 
     }
